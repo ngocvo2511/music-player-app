@@ -31,7 +31,7 @@
 
 ### 1. Yêu cầu
 
-Chỉ cần máy bạn có trình duyệt hiện đại và một trong các cách chạy server nội bộ dưới đây:
+Dùng web server, có thể dùng một trong các server nội bộ dưới đây:
 
 #### 🔹 Dùng Live Server trong Visual Studio Code (Khuyên dùng)
 - Mở thư mục dự án bằng VS Code.
