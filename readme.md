@@ -2,6 +2,8 @@
 # 🎵 ỨNG DỤNG CHƠI NHẠC ONLINE
 
 ---
+👤 **Họ tên:** Võ Xuân Ngọc  
+🎓 **MSSV:** 23521034
 
 ## ✨ Tính Năng
 
